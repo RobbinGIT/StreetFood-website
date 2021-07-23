@@ -22,7 +22,7 @@ Before you continue, ensure you have met the following requirements:
 To acces this project, you need to clone it using these steps;
 1. Open your terminal (Ctrl+Alt+T)
 2. Change the current working directory to the location where you want the cloned directory.
-3. Type `$ git clone https://github.com/jLuseno161/Anitas-Kitchen.git`
+3. Type `$ git clone https://github.com/RobbinGIT/StreetFood-website.git`
 4. `Enter` to create your local clone.
     * This will clone the repositoty into your local folder.
 
