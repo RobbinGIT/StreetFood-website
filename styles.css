@@ -65,3 +65,35 @@ body{
     width: 100px;
     height: 30px;
 }
+
+ .cont3{
+    padding: 40px 0;
+ }
+
+ /* section */
+ #wrapper{
+     display: inline-block;
+ }
+.row{
+    display: flex;
+
+}
+.container{
+    display: inline;
+}
+ .promoimg{
+    width: 50%; /*image width*/
+    float: left; /*image position*/
+    margin: 0;
+    align: left;
+   
+ }
+ .promo{
+    width: 50%;
+    float: right;
+    font-size: 12px;
+	padding-top: 2em ;
+	line-height: 12px;
+	margin: 25px 0;
+	padding-bottom: 2em;
+ }
