@@ -34,7 +34,7 @@ To acces this project, you need to clone it using these steps;
 3. Git
 
 ### Live Site
-Go to View [live](https://robbingit.github.io/StreetFood-website/)
+Go to  [live](https://robbingit.github.io/StreetFood-website/) site
 
 ### Licence
 This project is under the  [MIT](LICENSE) licence:<br>
