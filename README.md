@@ -4,23 +4,24 @@
 Robbin Mwangi Githimbo
 
 ## Description
-This is a simple design of Street Foods webdesign including; a list of foods and services offered, contact information and an option to subscribe to there mails.
+This is a simple design of Street Foods webdesign including; a list of foods and drinks offered, contact information and an option to subscribe to the emails newsletters.
 
-### Prerequisites
+### Essentials
 
-Before you continue, ensure you have met the following requirements:
+The following are required in order to continue....
 
-* Have a text-editor installed on your computer(Preferably Visual studio code)
-* You need to have git installed on your computer
-* You have a basic understanding of the git commands and requirements
-    
-   -  Open your terminal (Ctrl+Alt+T)
-   -  Install git using this command:
+* Install a text editor on your computer (Preferably Visual studio code)
+* You must have git installed on your computer in order to use it.
+* Have working knowledge of the git commands and prerequisites.
+* You can run the following command to install git in you computer;
+   -  Open terminal for linux or command prompt for windows 
+   -  And Install git using this command:
         `$ sudo apt install git-all`
+* You can see all steps by following this link `https://github.com/git-guides/install-git`
 
 ### Setup and Installation
 To acces this project, you need to clone it using these steps;
-1. Open your terminal (Ctrl+Alt+T)
+1. Open your terminal command prompt for windows.
 2. Change the current working directory to the location where you want the cloned directory.
 3. Type `$ git clone https://github.com/RobbinGIT/StreetFood-website.git`
 4. `Enter` to create your local clone.

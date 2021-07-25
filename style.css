@@ -8,13 +8,24 @@
     body{
     width: 100%;
 }
+
+/* Eclipse =  Background-Color: #649549
+Buttons = #6CB840
+Texts = #EAAB1B(light orange)  and  #6CB840(light green)
+Hot Deals Section = background-color: #C9ECB5
+Contact = background-color: #FFD77C
+Footer : background-color: #C9ECB5
+Font type: Poppins  */
+
+
+
 :root{
     --color1:#649549; /*Eclipse =  Background-Color*/
     --color2:#6CB840;/* Buttons */
     --color3:#EAAB1B;/* Texts = #EAAB1B(light orange)  */ 
     --color4:#6CB840; /* Texts color  #6CB840(light green) */
     --color5:#C9ECB5; /* Hot Deals Section = background-color: #C9ECB5 */
-    --color6:#FFD77C; /* Contact = background-color: #FFD77C */
+    --color6: #FFD77C; /* Contact = background-color: #FFD77C */
     --color7:#C9ECB5;/* Footer : background-color: #C9ECB5*/
     --color8:rgb(211, 211, 211);
 }
@@ -346,7 +357,7 @@ header .right_menu li a{
 /* footer */
 
 
-footer{background:lightgrey;
+footer{background: var(--color7);
         padding: 40px;
         margin-top: 40px;
         width: 100%;
