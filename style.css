@@ -344,21 +344,79 @@ header .right_menu li a{
 }
 
 /* footer */
-footer{
-    margin-top: 50px;
-    background: var(--color7);
+
+
+footer{background:lightgrey;
+        padding: 40px;
+        margin-top: 40px;
+        width: 100%;
+}
+.footer-container{
+    display: flex;
+    align-items: center;
+    display: space-between;
+
+}
+.footer-left{
+    display: flex;
 }
 
-.column {
-    float: left;
-    width: 20%;
-    padding: 10px;
-    height: 200px;
-  }
-  
-  /* Clear floats after the columns */
-  .row:after {
-    content: "";
-    display: table;
-    clear: both;
-  }
+.footer-right{
+    display: flex;
+}
+
+footer .footer-leftletf{
+    margin-top: 10px;
+    width: 100%;
+}
+footer .footer-leftletf p{
+    margin: 12px 12px;
+}
+.footer-leftletf{
+   padding-right: 20px;
+   border-right: 1px dashed green;
+}
+footer .footer-leftright{
+    padding-left: 50px;
+    margin-top: 50px;
+    width: 100%;
+}
+#phones{
+    margin-bottom: 5px;
+}
+
+
+
+
+.footer-right{
+    margin-left: 40%;
+}
+
+.footer-rightleft{
+    padding-left: 50px;
+    margin-top: 50px;
+    width: 100%;
+}
+.footer-rightright{
+    padding-left: 50px;
+    margin-top: 50px;
+}
+
+.footer-rightleft h4{
+    font-size: 15px;
+}
+.footer-rightleft p{
+    font-size: 12px ;
+}
+
+.footer-rightright img{
+    padding-bottom: 20px;
+}
+.footer-rightright button{
+    background: var(--color4);
+    color: white;
+    border: none;
+    height: relative;
+    font-size: 12px;
+    width: 40px;
+}
