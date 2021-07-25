@@ -174,14 +174,13 @@ header .right_menu li a{
 }
 .wrapper{
     background: var(--color8);
-    margin-top: 10%;
-    
+    margin-top: 5%;
+
 }
 .wrapper h1{
     font-size: 2em;
     padding-bottom: 10px;
     text-align: center;
-    margin-bottom: 60px;
 }
 .wrapper h1 span{
     color: var(--color4);
@@ -197,7 +196,7 @@ header .right_menu li a{
     margin: 50px;
     margin-bottom: 50px;
     width: 300px;
-    padding: 34px;
+    padding: 20px;
     border-radius: 0 0 40px;
     position: relative;
 }
@@ -219,7 +218,7 @@ header .right_menu li a{
     height:120px;
 
 }
-/* section 4 */
+/* section 4  hot deals section*/
 
 .wrapper2{
     position: relative;
@@ -256,10 +255,15 @@ header .right_menu li a{
 
 #hot{
     text-align: center;
-    padding-left: 70%;
+    font-size: 30px;
+    font-size: 2em;
+    padding-bottom: 0;
+    text-align: center;
+    margin-bottom: 0;
 }
+
 .team .team_member h2{
-   color: green;
+   color:#6CB840;
    text-transform: uppercase;
    margin-bottom: 50px;
    font-size: 30px;
