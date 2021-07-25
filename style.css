@@ -256,6 +256,7 @@ header .right_menu li a{
    color: green;
    text-transform: uppercase;
    margin-bottom: 50px;
+   font-size: 30px;
 }
 .team .team_member h2{
    font-size: 26px;
@@ -271,11 +272,11 @@ header .right_menu li a{
    height: 300px;
    position: absolute;
    bottom: -30px;
-   right: 50%;
+   right: 45%;
    
 }
 .team .team_member .burgerimg2 img{
-   width: 300px;
+   width: 350px;
    height: 300px;
    padding-top: 30px;
    margin-right: 50px;
