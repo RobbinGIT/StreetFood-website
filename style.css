@@ -25,7 +25,7 @@ Font type: Poppins  */
     --color3:#EAAB1B;/* Texts = #EAAB1B(light orange)  */ 
     --color4:#6CB840; /* Texts color  #6CB840(light green) */
     --color5:#C9ECB5; /* Hot Deals Section = background-color: #C9ECB5 */
-    --color6: #FFD77C; /* Contact = background-color: #FFD77C */
+    --color6:#FFD77C; /* Contact = background-color: #FFD77C */
     --color7:#C9ECB5;/* Footer : background-color: #C9ECB5*/
     --color8:rgb(211, 211, 211);
 }
@@ -226,7 +226,7 @@ header .right_menu li a{
     left: -50px;
 }
 .menu .explore .Burger_img img{
-    width: 120px;
+    width: 150px;
     height:120px;
 
 }
