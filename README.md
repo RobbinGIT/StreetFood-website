@@ -28,8 +28,9 @@ To acces this project, you need to clone it using these steps;
     * This will clone the repositoty into your local folder.
 
 ### Technologies Used
-1. HTML
-2. CSS
+
+1. HTML(Hypertext Mark-up Language)
+2. CSS (Cascading Style Sheet)
 3. Git
 
 ### Live Site
